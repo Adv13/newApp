@@ -1,1 +1,5 @@
-aside {}
+#aside__container {
+  color: #565656;
+  font-weight: bold;
+  font-size: 2rem;
+}
