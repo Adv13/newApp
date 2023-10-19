@@ -1,0 +1,9 @@
+footer {
+  height: 15%;
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+  font-size: 2em;
+  align-items: center;
+  padding: 5px;
+}
